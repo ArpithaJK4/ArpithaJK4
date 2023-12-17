@@ -1,5 +1,5 @@
 ![logo](https://github.com/ArpithaJK4/ArpithaJK4/blob/main/gallery.png)
-<h1 align="center">Hi 👋, I'm Arpitha Jain</h1>
+<h1 align="center">Hi 👋, I'm Arpitha Jain </h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpithajk4&label=Profile%20views&color=0e75b6&style=flat" alt="arpithajk4" /> </p>
