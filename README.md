@@ -1,4 +1,4 @@
-![logo](https://github.com/ArpithaJK4/ArpithaJK4/blob/main/gallery.png)(https://github.com/ArpithaJK4/ArpithaJK4/blob/main/gallery.png)
+![logo](https://github.com/ArpithaJK4/ArpithaJK4/blob/main/gallery.png)
 
 <h1 align="center">Hi 👋, I'm Arpitha Jain </h1>
 <h3 align="center">A passionate Software Developer </h3>
