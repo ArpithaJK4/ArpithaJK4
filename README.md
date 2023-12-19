@@ -1,4 +1,4 @@
-![logo]()
+
 
 <h1 align="center">Hi 👋, I'm Arpitha Jain </h1>
 <h3 align="center">A passionate Software Developer </h3>
