@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/ArpithaJK4/ArpithaJK4/blob/main/WhatsApp%20Image%202023-12-19%20at%208.04.49%20PM%20(2).jpeg)
 <h1 align="center">Hi 👋, I'm Arpitha Jain </h1>
 <h3 align="center">A passionate Software Developer </h3>
 
